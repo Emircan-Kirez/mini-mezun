@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "865523697594",
+    "firebase_url": "https://mobilehomework-87a94-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "mobilehomework-87a94",
+    "storage_bucket": "mobilehomework-87a94.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:865523697594:android:65524e1d3f1ab7ed4cff83",
+        "android_client_info": {
+          "package_name": "com.emircankirez.mobilehomework"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "865523697594-f3vioiip8brncl8rm67ro68egruln5vq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAVY6lQ6hu5GSaBsYZcwZXjPGrdFPFAV0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "865523697594-f3vioiip8brncl8rm67ro68egruln5vq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
